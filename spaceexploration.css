@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+
+ .bg {
+    background-image: url('space.jpg');
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    
+ }
+ .space {
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    position: relative;
+    
+ }
+ .x {
+    font-size: 70px;
+ }
+ .join {
+    font-size: 130px;
+    text-align: center;
+    color: aqua;
+    font-weight: bolder;
+    margin-top: -60px;
+}
+.button1 {
+    color: aqua;
+    font-size: 50px;
+    border: none;
+    font-weight: bolder;
+    display: block;
+    position: relative;
+    left: 40%;
+    top : -60px;
+}
+.terms {
+    font-size: 90px;
+    word-spacing: 10px;
+    text-align: center;
+    color: aqua;
+    font-weight: bolder;
+    position: relative;
+    top: -40px;
+}
+
+    
+    
+    
